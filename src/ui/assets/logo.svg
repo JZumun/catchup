@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="266.6" viewBox="0 0 150 250">
+	<path vector-effect="non-scaling-stroke" d="M.5.4l35.8 90.4 38.9 53.1L113.6 91l36-90.6-74.8 62.7zm113 90.6L75 188.3 36.3 90.8l-17.9-15-18-15.1L75 248.6l74.5-188z" fill="transparent" stroke="currentColor" stroke-width="1"/>
+	<path vector-effect="non-scaling-stroke" d="M.5.4l35.8 90.4L75 188.3 113.6 91l36-90.6-74.8 62.7z" fill="transparent" fill-rule="evenodd"  stroke="var(--color, white)" stroke-width="3" />
+	<path vector-effect="non-scaling-stroke" d="M.5.4l35.8 90.4L75 188.3 113.6 91l36-90.6-74.8 62.7z" fill="transparent" fill-rule="evenodd"  stroke="currentColor" stroke-width="1" />
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 150 250">
+  <g id="layer1"
+     transform="translate(-1388.7829,-129.52208)">
+    <path
+       style="fill:currentColor;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 1389.2641,129.91864 35.8413,90.3692 38.8671,53.1639 38.3963,-52.93311 35.931,-90.59999 -74.7084,62.68849 z m 113.1047,90.59999 -38.5858,97.28888 -38.6776,-97.51967 -35.8413,-30.0749 74.5169,187.88887 74.5188,-187.88887 z"
+      />
+  </g>
+  <path
+    style="fill: var(--color, transparent);"
+    d="m 0,0 0,150 150,150 150,0 z" />
+</svg>
